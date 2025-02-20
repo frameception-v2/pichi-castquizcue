@@ -1,3 +1,3 @@
-export const PROJECT_ID = 'farcaster-frames-template';
-export const PROJECT_TITLE = "Farcaster Frames Template";
-export const PROJECT_DESCRIPTION = "A Farcaster Frames v2 Template by hellno";
+export const PROJECT_ID = 'CastQuizcue';
+export const PROJECT_TITLE = "CastQuizcue";
+export const PROJECT_DESCRIPTION = "Interactive quiz game for Farcaster - challenge your friends and test your knowledge";
